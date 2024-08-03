@@ -9,12 +9,15 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="500">
 </p>
 
+<br/><br/>
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suzanadssantos&show_icons=true&theme=transparent"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzanadssantos&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=suzanadssantos&show_icons=true&theme=transparent"/>
+  <br/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzanadssantos&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
+<br/><br/>
 <!-- Views and followers -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=suzanadssantos&color=blue&style=for-the-badge">
